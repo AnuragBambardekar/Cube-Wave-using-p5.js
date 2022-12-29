@@ -7,7 +7,7 @@ WebGL (Short for Web Graphics Library) is a JavaScript API for rendering interac
 
 **Learning Outcomes: **Orthographic Projection, WebGL, p5.js
 
-![Cube Wave](/Images/Cube\ Wave.gif?raw=true "Employee Data title")
+![Cube Wave](/Images/"Cube Wave".gif?raw=true "Employee Data title")
 
 
 **References:** <br>
