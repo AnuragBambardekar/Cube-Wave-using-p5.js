@@ -1,4 +1,4 @@
-# Cube-Wave-using-p5.js
+# Cube Wave using p5.js
 Cube Wave by Bees and Bombs <br>
 
 The artist BeesandBombs makes amazing algorithmic looping GIFs! Here's my attempt to recreate one of my favorite GIFs in JavaScript with p5.js and the WEBGL renderer. <br>
