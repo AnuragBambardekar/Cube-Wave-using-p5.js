@@ -5,7 +5,7 @@ The artist BeesandBombs makes amazing algorithmic looping GIFs! Here's my attemp
 p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! <br>
 WebGL (Short for Web Graphics Library) is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins. <br>
 
-**Learning Outcomes: **Orthographic Projection, WebGL, p5.js
+**Learning Outcomes:** Orthographic Projection, WebGL, p5.js
 
 ![Cube Wave](/Images/CubeWave.gif?raw=true "Employee Data title")
 
